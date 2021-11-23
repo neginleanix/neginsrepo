@@ -5,7 +5,7 @@ on:
 
 env:
   HOST: demo-eu.leanix.net
-  LEANIX_MANIFEST_PATH: /lx-manifest.yml
+  LEANIX_MANIFEST_PATH: /lx-manifest.yaml
   DEPENDENCY_MANAGER: NPM
   STAGE: test
   VERSION: 2.2.0
