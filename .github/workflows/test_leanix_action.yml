@@ -4,7 +4,7 @@ on:
   push:
 
 env:
-  HOST: app.leanix.net
+  HOST: demo-eu.leanix.net
   LEANIX_MANIFEST_PATH: /lx-manifest.yml
   DEPENDENCY_MANAGER: NPM
   STAGE: test
